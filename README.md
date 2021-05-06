@@ -10,5 +10,4 @@
 
 # chapter1
 第1章の内容の資料をアップします。2021/5/6現在でアップしているのは下記の通りです。
-
-・１章のイントロ：「機械学習とは何か？」（noteのURL：https://note.com/anmitsu48/n/n4de53c9f6651 ）
+- １章のイントロ：「機械学習とは何か？」（noteのURL：https://note.com/anmitsu48/n/n4de53c9f6651 ）
