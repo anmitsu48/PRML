@@ -18,7 +18,7 @@
 - 1.1節：「多項式曲線フィッティング」
   - （1.1節前半部分のコメント）：https://note.com/anmitsu48/n/n3daca0b41410
   - （1.1節後半部分のコメント）：https://note.com/anmitsu48/n/n53eeea2c33cc
-- 1.2節：「確率論の基礎」（1.2.2節まで公開）
+- 1.2節：「確率論の基礎」（1.2.4節まで公開）
   - （1.2節のイントロ部分のコメント）：https://note.com/anmitsu48/n/ne8552bf12114
   - （1.2.1節と1.2.2節の部分のコメント）：https://note.com/anmitsu48/n/n5817d2b4625d
   - （1.2.4節の部分のコメント）：https://note.com/anmitsu48/n/n643e0c617829
